@@ -215,7 +215,7 @@ tests/assist-route.test.ts       Guided no-key behaviour + prompt isolation
 docs/images/                     Verified desktop, failure, and mobile captures
 SUBMISSION.md                    Founder-facing written assessment
 RESEARCH.md                      Company and market evidence
-INTERVIEW.md                     Likely founder questions and answers
+DEMO_SCRIPT.md                   90-second reviewer walkthrough
 ```
 
 ## Novelty boundary

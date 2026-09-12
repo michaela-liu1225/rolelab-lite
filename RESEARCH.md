@@ -90,25 +90,3 @@ RoleLab Lite uses one synthetic B2B cloud-support credit workflow:
 - one illustrative step-level division map and example drill.
 
 The conclusion is intentionally modest: this build demonstrates the proposed instrumentation and interaction, not an empirical triad or workflow effect. A real pilot would randomise case-arm assignment with a Latin square, use multiple participants/cases, blind the judge to condition, and add delayed matched testing.
-
-## What the founders are likely testing
-
-1. **Product judgment:** a specific user, buyer, workflow, and measurable decision.
-2. **End-to-end shipping:** a no-login live link whose core path works in under five minutes.
-3. **AI engineering:** bounded context, Structured Outputs, deterministic safety, evaluation, and fallbacks.
-4. **Operational maturity:** cost assumptions, latency, privacy, tenancy, observability, and rollback.
-5. **Intellectual honesty:** seeded vs live data, implemented vs planned architecture, and bounded novelty.
-6. **Communication:** enough technical depth to defend choices without hiding behind jargon.
-
-## Interview diligence
-
-Before accepting an offer, useful questions include:
-
-- Which entity signs the employment/internship agreement: TAI Labs Ltd or Snapdrum Ltd?
-- Is the assessment prototype retained, reused, or assigned to the company?
-- How are interns paid, supervised, and converted to permanent roles?
-- What share of work is client delivery versus the Tai platform?
-- Which security/data-processing controls apply to client artifacts?
-- What would count as success in the first 30 and 90 days?
-
-These are diligence questions, not accusations. The company is young and its product packaging appears to be evolving quickly; precise expectations matter.
