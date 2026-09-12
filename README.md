@@ -193,12 +193,13 @@ Environment variables:
 
 ## Deploy
 
-1. Push this folder to a GitHub repository.
-2. Import the repository into Vercel as a Next.js project.
-3. For a public assessment demo, leave `OPENAI_API_KEY` unset so anonymous visitors cannot spend model quota. Use live-model mode only behind access control or rate limits.
-4. Deploy and verify `/api/status`, the happy path, and the unsafe-promise failure path in a private browser window.
+**Live demo:** https://rolelab-lite.vercel.app
 
-No API credentials are included in this repository. The submitted live URL should replace its placeholder in `SUBMISSION.md` only after the deployed checks pass.
+The `main` branch is connected to Vercel as a Next.js project. The public assessment deployment intentionally leaves `OPENAI_API_KEY` unset so anonymous visitors cannot spend model quota; live-model mode should only be enabled behind access control and rate limits.
+
+Production verification covered `/api/status`, the guided happy path, and the unsafe-promise failure path. Every push to `main` now triggers a new Vercel deployment.
+
+No API credentials are included in this repository. The verified live URL is recorded in `SUBMISSION.md`.
 
 ## Repository map
 
