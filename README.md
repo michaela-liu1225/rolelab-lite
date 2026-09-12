@@ -198,7 +198,7 @@ Environment variables:
 3. For a public assessment demo, leave `OPENAI_API_KEY` unset so anonymous visitors cannot spend model quota. Use live-model mode only behind access control or rate limits.
 4. Deploy and verify `/api/status`, the happy path, and the unsafe-promise failure path in a private browser window.
 
-No Vercel or GitHub credentials are included in this workspace. The submitted live URL and repository URL should replace the placeholders in `SUBMISSION.md` only after those checks pass.
+No API credentials are included in this repository. The submitted live URL should replace its placeholder in `SUBMISSION.md` only after the deployed checks pass.
 
 ## Repository map
 

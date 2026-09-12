@@ -6,7 +6,7 @@
 
 **Live demo:** `{{LIVE_URL}}`
 
-**GitHub:** `{{REPOSITORY_URL}}`
+**GitHub:** https://github.com/michaela-liu1225/rolelab-lite
 **Research cut-off:** 12 September 2026
 
 ## Product thesis
