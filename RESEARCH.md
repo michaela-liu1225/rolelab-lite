@@ -25,7 +25,7 @@ The selected gap is **work allocation**, not content: after a company chooses a 
 | LMS | Role-based tracks, graded work, certificates, capability reporting, policy-grounded training, audit trail, re-certification | “Assessment plus dashboard” is already core; the new value must change the evidence or decision. [Source](https://tailabs.ai/lms) |
 | Enterprise | Identity/governance, custom standards, re-assessment cycles, analytics, rollout waves | A credible extension needs tenancy, evidence, permissions, and calibration in its production plan. [Source](https://tailabs.ai/enterprise) |
 | Services | Workflow discovery, live training, implementation support, assessed projects | Workflow Scout should be framed as productising an existing service motion, not inventing discovery. [Source](https://tailabs.ai/) |
-| Engineering curriculum | Applied AI architecture, evaluation, deployment, risk and production concerns | Founders are likely to notice shallow “RAG/agents” name-dropping and missing evals. [Source](https://tailabs.ai/ai-eng-syllabus) |
+| Engineering curriculum | Applied AI architecture, evaluation, deployment, risk and production concerns | A credible implementation should justify its architecture and include explicit evaluation evidence. [Source](https://tailabs.ai/ai-eng-syllabus) |
 
 Tai’s own about page says its loop is Measure → Learn → Apply → Prove and explicitly rejects attendance-only credentials. RoleLab should therefore complement, rather than contradict, that positioning: its unique output is a workflow operating rule and the training action created from it. [About](https://tailabs.ai/about)
 
