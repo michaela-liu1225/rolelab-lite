@@ -7,6 +7,7 @@
 **Live demo:** https://rolelab-lite.vercel.app
 
 **GitHub:** https://github.com/michaela-liu1225/rolelab-lite
+
 **Research cut-off:** 12 September 2026
 
 ## Product thesis
@@ -79,7 +80,7 @@ OpenAI currently positions GPT‑5.6 Luna for cost-sensitive, high-volume worklo
 
 ## Deployment, cost, and reliability
 
-The live application would deploy from GitHub to Vercel with CI gates for lint, typecheck, unit tests, golden-set evaluation, and an end-to-end smoke test. The public assessment URL should stay in guided mode so anonymous visitors cannot spend model quota; live-model mode needs access control and rate limits. A health endpoint would expose service state but no secret. Rollback would use the previous Vercel deployment plus version-pinned prompts/policies.
+The live application is deployed from GitHub to Vercel. Current CI gates run lint, typecheck, 21 unit and route tests, and a production build; I also exercised the guided happy path and an unsafe-promise path against the production URL. A production pipeline would add golden-set evaluation and an automated end-to-end smoke test. The public assessment URL stays in guided mode so anonymous visitors cannot spend model quota; live-model mode needs access control and rate limits. The health endpoint exposes service state but no secret. Rollback would use the previous Vercel deployment plus version-pinned prompts and policies.
 
 Using current public pricing and deliberately conservative token assumptions:
 
